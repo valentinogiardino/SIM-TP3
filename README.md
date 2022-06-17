@@ -3,7 +3,7 @@ TEMA: Variables Aleatorias
 
 CONSIGNAS:
 
-a)Realizar una librería que proporcione (mediante funciones o métodos) la
+a) Realizar una librería que proporcione (mediante funciones o métodos) la
 funcionalidad necesaria para generar valores de variables aleatorias para las
 siguientes distribuciones: uniforme, exponencial, poisson y normal.
 El usuario debe poder ingresar los parámetros de las distribuciones y la cantidad
